@@ -1,5 +1,4 @@
 #include "functions.h"
-#pragma once
 
 int multi_between_negative(int arr[], int size) {
     int first_neg = index_first_negative(arr, size);
