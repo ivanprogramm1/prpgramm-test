@@ -1,4 +1,4 @@
-#include "functions.h"
+#include "index_last_negative.h"
 
 int index_last_negative(int arr[], int size) {
     int last = -1;
