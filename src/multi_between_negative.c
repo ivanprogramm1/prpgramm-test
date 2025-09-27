@@ -1,4 +1,6 @@
-#include "functions.h"
+#include "multi_between_negative.h"
+#include "index_first_negative.h"
+#include "index_last_negative.h"
 
 int multi_between_negative(int arr[], int size) {
     int first_neg = index_first_negative(arr, size);
